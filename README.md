@@ -105,38 +105,38 @@ Shows the miners running ETH. </br>
 Helps to find the charging status of tesla powerpack. </br>
 `http.title:"Tesla PowerPack System" http.component:"d3" -ga3ca4f2`
 
-###Devices With Default Password
+### Devices With Default Password
 "default password"
 
-###Windows Servers With RDP and Screenshots
+### Windows Servers With RDP and Screenshots
 os:windows port:3389 has_screenshot:yes
 
-###MySQL Servers In London
+### MySQL Servers In London
 country:gb city:london product:MySQL
 
-###Hosts Owned By Google With Expired SSL Certificates
+### Hosts Owned By Google With Expired SSL Certificates
 org:google ssl.cert.expired:true
 
-###Unprotected VNC
+### Unprotected VNC
 "authentication disabled" "RFB 003.008"
 
-###FTP Anonymous Login
+### FTP Anonymous Login
 anonymous@ login ok. port:"21"
 
-###SMB No Authentication
+### SMB No Authentication
 port:"445" Authentication: "disabled"
 
-###SMB No Authentication – Domain Controller
+### SMB No Authentication – Domain Controller
 "Authentication: disabled" NETLOGON SYSVOL -unix port:445
 
-###Cisco No Authentication
+### Cisco No Authentication
 "This feature requires the one-time use of the username "cisco" with
 the password "cisco""
 
-###HP Printers
+### HP Printers
 "Serial Number:" "Built:" "Server: HP HTTP"
 
-###Xerox Printers
+### Xerox Printers
 "SERVER: EPSON_Linux UPnP" "200 OK"
 "Server: EPSON-HTTP" "200 OK
 
