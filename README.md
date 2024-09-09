@@ -143,3 +143,7 @@ the password "cisco""
 ### YOU CAN ALSO COMBINE FILTERS TO MAKE INTO ADVANCED FILTERS FOR QUICK RECON.
 
 *Please create a pull request if you want to contribute.*
+
+### Device Type
+
+*device:firewall device:router device:wap device:webcam device:media device:"broadband router" device:pbx device:printer device:switch device:storage device:specialized device:phone device:"voip" device:"voip phone" device:"voip adaptor" device:"load balancer" device:"print server" device:terminal device:remote device:telecom device:power device:proxy device:pda device:bridge*
