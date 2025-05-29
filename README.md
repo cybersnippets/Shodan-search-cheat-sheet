@@ -140,6 +140,30 @@ the password "cisco""
 "SERVER: EPSON_Linux UPnP" "200 OK"
 "Server: EPSON-HTTP" "200 OK
 
+### Web Login Portals
+http.title:"Login"
+http.html:"admin"
+http.html:"username"
+http.html:"password"
+
+### WordPress
+http.title:"WordPress"
+http.favicon.hash:-1172480763
+
+### phpMyAdmin
+http.title:"phpMyAdmin"
+http.favicon.hash:837381671
+
+### Jenkins
+http.title:"Dashboard [Jenkins]"
+http.favicon.hash:-976235259
+
+### Exposed .git
+"index of /.git"
+
+### Webmin
+product:"Webmin"
+
 ### YOU CAN ALSO COMBINE FILTERS TO MAKE INTO ADVANCED FILTERS FOR QUICK RECON.
 
 *Please create a pull request if you want to contribute.*
